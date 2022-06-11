@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Khavrielle and I'm new to this whole dev-thing. I'm working on an RPG for my boyfriend without having a single clue on how to write code. But I'm
+- slowly learning. ♥️
